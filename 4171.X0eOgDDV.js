@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdraw=self.webpackChunkdraw||[]).push([[4171],{84171:(e,r,t)=>{t.d(r,{A:()=>c});var a=t(28562);let c=function(){try{var e=(0,a.A)(Object,"defineProperty");return e({},"",{}),e}catch(e){}}()}}]);

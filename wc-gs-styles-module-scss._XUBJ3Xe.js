@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdraw=self.webpackChunkdraw||[]).push([[3109],{71232:(e,r,a)=>{a.r(r),a.d(r,{"group-header":()=>u});var u="gs__group-header__uPTYT"}}]);

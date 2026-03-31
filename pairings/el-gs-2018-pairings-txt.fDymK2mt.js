@@ -1,0 +1,45 @@
+"use strict";(self.webpackChunkdraw=self.webpackChunkdraw||[]).push([[554],{56544:r=>{r.exports=`Sevilla\r
+Betis\r
+\r
+Arsenal\r
+Chelsea\r
+\r
+Zenit\r
+Spartak\r
+\r
+Dynamo\r
+Vorskla\r
+\r
+Beşiktaş\r
+Fenerbah\xe7e\r
+\r
+Salzburg\r
+Rapid Wien\r
+\r
+Olympiacos\r
+PAOK\r
+\r
+Anderlecht\r
+Standard\r
+\r
+Lazio\r
+Milan\r
+\r
+Marseille\r
+Bordeaux\r
+\r
+Celtic\r
+Rangers\r
+\r
+Leipzig\r
+Frankfurt\r
+\r
+Apollon\r
+AEK Larnaca\r
+\r
+Rosenborg\r
+Sarpsborg\r
+\r
+Slavia\r
+Jablonec\r
+`}}]);
