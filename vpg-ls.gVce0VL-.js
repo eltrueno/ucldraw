@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdraw=self.webpackChunkdraw||[]).push([[3462],{31866:(e,r,t)=>{t.r(r),t.d(r,{default:()=>s});var u=t(74848),a=t(96540),n=t(40678);let s=(0,a.memo)(function(e){return(0,u.jsx)(n.A,{...e,tournament:"vpg"})})}}]);
