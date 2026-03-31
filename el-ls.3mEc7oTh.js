@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdraw=self.webpackChunkdraw||[]).push([[4118],{80074:(e,r,u)=>{u.r(r),u.d(r,{default:()=>n});var a=u(74848),s=u(96540),t=u(78347);let n=(0,s.memo)(function(e){return(0,a.jsx)(t.A,{...e})})}}]);
